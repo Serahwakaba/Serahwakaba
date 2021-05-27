@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about vue, Javascrpt, Java, Spark
 - 📫 How to reach me: Saragathoni888@gmail.com
 - 😄 Pronouns: She
-- ⚡ Fun fact: Samsung tests phone durability with a butt-shaped robot
+- ⚡ Fun fact: YouTube was created to be a dating site
