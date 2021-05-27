@@ -1,8 +1,7 @@
 ### Hi there 👋
 
  Am Serah Gathoni
- 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on Personal Project
 - 🌱 I’m currently learning Java Android
@@ -12,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Saragathoni888@gmail.com
 - 😄 Pronouns: She
 - ⚡ Fun fact: YouTube was created to be a dating site
+
